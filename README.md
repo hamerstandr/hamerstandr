@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hamerstandr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning java kotline solidity
+- 👀 I’m interested in c# php java kotline
+- 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hamerstandr@gmail.com
 
