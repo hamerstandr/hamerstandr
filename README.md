@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hamerstandr
-- 👀 I’m interested in c# php java kotline
+- 👀 I’m interested in vb.net delphi c++ c# php java kotline javascript (css,sass,...)  
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hamerstandr@gmail.com
